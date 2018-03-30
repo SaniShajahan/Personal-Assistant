@@ -1,0 +1,51 @@
+E:\MP3 PLAYER\MP3 PLAYER\bin\Debug\MP3 PLAYER.exe.config
+E:\MP3 PLAYER\MP3 PLAYER\bin\Debug\MP3 PLAYER.exe
+E:\MP3 PLAYER\MP3 PLAYER\bin\Debug\MP3 PLAYER.pdb
+E:\MP3 PLAYER\MP3 PLAYER\bin\Debug\Interop.WMPLib.dll
+E:\MP3 PLAYER\MP3 PLAYER\bin\Debug\AxInterop.WMPLib.dll
+E:\MP3 PLAYER\MP3 PLAYER\obj\Debug\MP3 PLAYER.csprojResolveAssemblyReference.cache
+E:\MP3 PLAYER\MP3 PLAYER\obj\Debug\Interop.WMPLib.dll
+E:\MP3 PLAYER\MP3 PLAYER\obj\Debug\AxInterop.WMPLib.dll
+E:\MP3 PLAYER\MP3 PLAYER\obj\Debug\MP3 PLAYER.csproj.ResolveComReference.cache
+E:\MP3 PLAYER\MP3 PLAYER\obj\Debug\MP3_PLAYER.Form1.resources
+E:\MP3 PLAYER\MP3 PLAYER\obj\Debug\MP3_PLAYER.Properties.Resources.resources
+E:\MP3 PLAYER\MP3 PLAYER\obj\Debug\MP3 PLAYER.csproj.GenerateResource.Cache
+E:\MP3 PLAYER\MP3 PLAYER\obj\Debug\MP3 PLAYER.exe
+E:\MP3 PLAYER\MP3 PLAYER\obj\Debug\MP3 PLAYER.pdb
+D:\Study\Visual Studio\C#\MP3 PLAYER\MP3 PLAYER\bin\Debug\MP3 PLAYER.exe.config
+D:\Study\Visual Studio\C#\MP3 PLAYER\MP3 PLAYER\obj\Debug\Interop.WMPLib.dll
+D:\Study\Visual Studio\C#\MP3 PLAYER\MP3 PLAYER\obj\Debug\AxInterop.WMPLib.dll
+D:\Study\Visual Studio\C#\MP3 PLAYER\MP3 PLAYER\obj\Debug\MP3 PLAYER.csproj.ResolveComReference.cache
+D:\Study\Visual Studio\C#\MP3 PLAYER\MP3 PLAYER\obj\Debug\MP3 PLAYER.exe
+D:\Study\Visual Studio\C#\MP3 PLAYER\MP3 PLAYER\obj\Debug\MP3 PLAYER.pdb
+D:\Study\Visual Studio\C#\MP3 PLAYER\MP3 PLAYER\bin\Debug\MP3 PLAYER.exe
+D:\Study\Visual Studio\C#\MP3 PLAYER\MP3 PLAYER\bin\Debug\MP3 PLAYER.pdb
+D:\Study\Visual Studio\C#\MP3 PLAYER\MP3 PLAYER\bin\Debug\Interop.WMPLib.dll
+D:\Study\Visual Studio\C#\MP3 PLAYER\MP3 PLAYER\bin\Debug\AxInterop.WMPLib.dll
+D:\Study\Visual Studio\C#\MP3 PLAYER\MP3 PLAYER\obj\Debug\MP3 PLAYER.csprojResolveAssemblyReference.cache
+D:\Study\Visual Studio\C#\MP3 PLAYER\MP3 PLAYER\obj\Debug\MP3_PLAYER.Form1.resources
+D:\Study\Visual Studio\C#\MP3 PLAYER\MP3 PLAYER\obj\Debug\MP3_PLAYER.Form2.resources
+D:\Study\Visual Studio\C#\MP3 PLAYER\MP3 PLAYER\obj\Debug\MP3_PLAYER.Properties.Resources.resources
+D:\Study\Visual Studio\C#\MP3 PLAYER\MP3 PLAYER\obj\Debug\MP3 PLAYER.csproj.GenerateResource.Cache
+D:\Study\Visual Studio\C#\MP3 PLAYER\MP3 PLAYER\obj\Debug\MP3_PLAYER.Form3.resources
+E:\2016-2017, Fall 8\OBJECT ORIENTED PROGRAMMING 2 [E]\Project\MP3 PLAYER\MP3 PLAYER\bin\Debug\MP3 PLAYER.exe.config
+E:\2016-2017, Fall 8\OBJECT ORIENTED PROGRAMMING 2 [E]\Project\MP3 PLAYER\MP3 PLAYER\obj\Debug\Interop.WMPLib.dll
+E:\2016-2017, Fall 8\OBJECT ORIENTED PROGRAMMING 2 [E]\Project\MP3 PLAYER\MP3 PLAYER\obj\Debug\AxInterop.WMPLib.dll
+E:\2016-2017, Fall 8\OBJECT ORIENTED PROGRAMMING 2 [E]\Project\MP3 PLAYER\MP3 PLAYER\obj\Debug\MP3 PLAYER.csproj.ResolveComReference.cache
+E:\2016-2017, Fall 8\OBJECT ORIENTED PROGRAMMING 2 [E]\Project\MP3 PLAYER\MP3 PLAYER\obj\Debug\MP3 PLAYER.exe
+E:\2016-2017, Fall 8\OBJECT ORIENTED PROGRAMMING 2 [E]\Project\MP3 PLAYER\MP3 PLAYER\obj\Debug\MP3 PLAYER.pdb
+E:\2016-2017, Fall 8\OBJECT ORIENTED PROGRAMMING 2 [E]\Project\MP3 PLAYER\MP3 PLAYER\obj\Debug\MP3 PLAYER.csprojResolveAssemblyReference.cache
+E:\2016-2017, Fall 8\OBJECT ORIENTED PROGRAMMING 2 [E]\Project\MP3 PLAYER\MP3 PLAYER\obj\Debug\MP3_PLAYER.Startup.resources
+E:\2016-2017, Fall 8\OBJECT ORIENTED PROGRAMMING 2 [E]\Project\MP3 PLAYER\MP3 PLAYER\obj\Debug\MP3_PLAYER.Calculator.resources
+E:\2016-2017, Fall 8\OBJECT ORIENTED PROGRAMMING 2 [E]\Project\MP3 PLAYER\MP3 PLAYER\obj\Debug\MP3_PLAYER.Properties.Resources.resources
+E:\2016-2017, Fall 8\OBJECT ORIENTED PROGRAMMING 2 [E]\Project\MP3 PLAYER\MP3 PLAYER\obj\Debug\MP3 PLAYER.csproj.GenerateResource.Cache
+E:\2016-2017, Fall 8\OBJECT ORIENTED PROGRAMMING 2 [E]\Project\MP3 PLAYER\MP3 PLAYER\bin\Debug\MP3 PLAYER.exe
+E:\2016-2017, Fall 8\OBJECT ORIENTED PROGRAMMING 2 [E]\Project\MP3 PLAYER\MP3 PLAYER\bin\Debug\MP3 PLAYER.pdb
+E:\2016-2017, Fall 8\OBJECT ORIENTED PROGRAMMING 2 [E]\Project\MP3 PLAYER\MP3 PLAYER\bin\Debug\Interop.WMPLib.dll
+E:\2016-2017, Fall 8\OBJECT ORIENTED PROGRAMMING 2 [E]\Project\MP3 PLAYER\MP3 PLAYER\bin\Debug\AxInterop.WMPLib.dll
+E:\2016-2017, Fall 8\OBJECT ORIENTED PROGRAMMING 2 [E]\Project\PersonalAssistant\MP3 PLAYER\bin\Debug\MP3 PLAYER.exe.config
+E:\2016-2017, Fall 8\OBJECT ORIENTED PROGRAMMING 2 [E]\Project\PersonalAssistant\MP3 PLAYER\obj\Debug\Interop.WMPLib.dll
+E:\2016-2017, Fall 8\OBJECT ORIENTED PROGRAMMING 2 [E]\Project\PersonalAssistant\MP3 PLAYER\obj\Debug\AxInterop.WMPLib.dll
+E:\2016-2017, Fall 8\OBJECT ORIENTED PROGRAMMING 2 [E]\Project\PersonalAssistant\MP3 PLAYER\obj\Debug\MP3 PLAYER.csproj.ResolveComReference.cache
+E:\2016-2017, Fall 8\OBJECT ORIENTED PROGRAMMING 2 [E]\Project\PersonalAssistant\MP3 PLAYER\obj\Debug\MP3 PLAYER.exe
+E:\2016-2017, Fall 8\OBJECT ORIENTED PROGRAMMING 2 [E]\Project\PersonalAssistant\MP3 PLAYER\obj\Debug\MP3 PLAYER.pdb

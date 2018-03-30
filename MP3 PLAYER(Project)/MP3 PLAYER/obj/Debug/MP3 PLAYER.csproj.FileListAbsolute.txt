@@ -1,0 +1,75 @@
+E:\MP3 PLAYER\MP3 PLAYER\bin\Debug\MP3 PLAYER.exe.config
+E:\MP3 PLAYER\MP3 PLAYER\bin\Debug\MP3 PLAYER.exe
+E:\MP3 PLAYER\MP3 PLAYER\bin\Debug\MP3 PLAYER.pdb
+E:\MP3 PLAYER\MP3 PLAYER\bin\Debug\Interop.WMPLib.dll
+E:\MP3 PLAYER\MP3 PLAYER\bin\Debug\AxInterop.WMPLib.dll
+E:\MP3 PLAYER\MP3 PLAYER\obj\Debug\MP3 PLAYER.csprojResolveAssemblyReference.cache
+E:\MP3 PLAYER\MP3 PLAYER\obj\Debug\Interop.WMPLib.dll
+E:\MP3 PLAYER\MP3 PLAYER\obj\Debug\AxInterop.WMPLib.dll
+E:\MP3 PLAYER\MP3 PLAYER\obj\Debug\MP3 PLAYER.csproj.ResolveComReference.cache
+E:\MP3 PLAYER\MP3 PLAYER\obj\Debug\MP3_PLAYER.Form1.resources
+E:\MP3 PLAYER\MP3 PLAYER\obj\Debug\MP3_PLAYER.Properties.Resources.resources
+E:\MP3 PLAYER\MP3 PLAYER\obj\Debug\MP3 PLAYER.csproj.GenerateResource.Cache
+E:\MP3 PLAYER\MP3 PLAYER\obj\Debug\MP3 PLAYER.exe
+E:\MP3 PLAYER\MP3 PLAYER\obj\Debug\MP3 PLAYER.pdb
+C:\Users\Shajahan\Desktop\MP3 PLAYER\MP3 PLAYER\bin\Debug\MP3 PLAYER.exe.config
+C:\Users\Shajahan\Desktop\MP3 PLAYER\MP3 PLAYER\obj\Debug\Interop.WMPLib.dll
+C:\Users\Shajahan\Desktop\MP3 PLAYER\MP3 PLAYER\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Shajahan\Desktop\MP3 PLAYER\MP3 PLAYER\obj\Debug\MP3 PLAYER.csproj.ResolveComReference.cache
+C:\Users\Shajahan\Desktop\MP3 PLAYER\MP3 PLAYER\obj\Debug\MP3 PLAYER.exe
+C:\Users\Shajahan\Desktop\MP3 PLAYER\MP3 PLAYER\obj\Debug\MP3 PLAYER.pdb
+C:\Users\Shajahan\Desktop\MP3 PLAYER\MP3 PLAYER\bin\Debug\MP3 PLAYER.exe
+C:\Users\Shajahan\Desktop\MP3 PLAYER\MP3 PLAYER\bin\Debug\MP3 PLAYER.pdb
+C:\Users\Shajahan\Desktop\MP3 PLAYER\MP3 PLAYER\bin\Debug\Interop.WMPLib.dll
+C:\Users\Shajahan\Desktop\MP3 PLAYER\MP3 PLAYER\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Shajahan\Desktop\MP3 PLAYER\MP3 PLAYER\obj\Debug\MP3 PLAYER.csprojResolveAssemblyReference.cache
+C:\Users\Shajahan\Desktop\MP3 PLAYER\MP3 PLAYER\obj\Debug\MP3_PLAYER.Form1.resources
+C:\Users\Shajahan\Desktop\MP3 PLAYER\MP3 PLAYER\obj\Debug\MP3_PLAYER.Properties.Resources.resources
+C:\Users\Shajahan\Desktop\MP3 PLAYER\MP3 PLAYER\obj\Debug\MP3_PLAYER.StartUP.resources
+C:\Users\Shajahan\Desktop\MP3 PLAYER\MP3 PLAYER\obj\Debug\MP3 PLAYER.csproj.GenerateResource.Cache
+E:\MP3 PLAYER\MP3 PLAYER\obj\Debug\MP3_PLAYER.StartUP.resources
+E:\MP3 PLAYER(Project)\MP3 PLAYER\bin\Debug\MP3 PLAYER.exe.config
+E:\MP3 PLAYER(Project)\MP3 PLAYER\obj\Debug\Interop.WMPLib.dll
+E:\MP3 PLAYER(Project)\MP3 PLAYER\obj\Debug\AxInterop.WMPLib.dll
+E:\MP3 PLAYER(Project)\MP3 PLAYER\obj\Debug\MP3 PLAYER.csproj.ResolveComReference.cache
+E:\MP3 PLAYER(Project)\MP3 PLAYER\obj\Debug\MP3 PLAYER.exe
+E:\MP3 PLAYER(Project)\MP3 PLAYER\obj\Debug\MP3 PLAYER.pdb
+E:\MP3 PLAYER(Project)\MP3 PLAYER\bin\Debug\MP3 PLAYER.exe
+E:\MP3 PLAYER(Project)\MP3 PLAYER\bin\Debug\MP3 PLAYER.pdb
+E:\MP3 PLAYER(Project)\MP3 PLAYER\bin\Debug\Interop.WMPLib.dll
+E:\MP3 PLAYER(Project)\MP3 PLAYER\bin\Debug\AxInterop.WMPLib.dll
+E:\MP3 PLAYER(Project)\MP3 PLAYER\obj\Debug\MP3 PLAYER.csprojResolveAssemblyReference.cache
+E:\MP3 PLAYER(Project)\MP3 PLAYER\obj\Debug\MP3_PLAYER.Properties.Resources.resources
+E:\MP3 PLAYER(Project)\MP3 PLAYER\obj\Debug\MP3_PLAYER.StartUP.resources
+E:\MP3 PLAYER(Project)\MP3 PLAYER\obj\Debug\MP3 PLAYER.csproj.GenerateResource.Cache
+E:\MP3 PLAYER(Project)\MP3 PLAYER\obj\Debug\MP3_PLAYER.MusicPlayer.resources
+E:\2016-2017, Fall 8\OBJECT ORIENTED PROGRAMMING 2 [E]\Project\MP3 PLAYER(Project)\MP3 PLAYER\bin\Debug\MP3 PLAYER.exe.config
+E:\2016-2017, Fall 8\OBJECT ORIENTED PROGRAMMING 2 [E]\Project\MP3 PLAYER(Project)\MP3 PLAYER\bin\Debug\MP3 PLAYER.exe
+E:\2016-2017, Fall 8\OBJECT ORIENTED PROGRAMMING 2 [E]\Project\MP3 PLAYER(Project)\MP3 PLAYER\bin\Debug\MP3 PLAYER.pdb
+E:\2016-2017, Fall 8\OBJECT ORIENTED PROGRAMMING 2 [E]\Project\MP3 PLAYER(Project)\MP3 PLAYER\bin\Debug\Interop.WMPLib.dll
+E:\2016-2017, Fall 8\OBJECT ORIENTED PROGRAMMING 2 [E]\Project\MP3 PLAYER(Project)\MP3 PLAYER\bin\Debug\AxInterop.WMPLib.dll
+E:\2016-2017, Fall 8\OBJECT ORIENTED PROGRAMMING 2 [E]\Project\MP3 PLAYER(Project)\MP3 PLAYER\obj\Debug\MP3 PLAYER.csprojResolveAssemblyReference.cache
+E:\2016-2017, Fall 8\OBJECT ORIENTED PROGRAMMING 2 [E]\Project\MP3 PLAYER(Project)\MP3 PLAYER\obj\Debug\Interop.WMPLib.dll
+E:\2016-2017, Fall 8\OBJECT ORIENTED PROGRAMMING 2 [E]\Project\MP3 PLAYER(Project)\MP3 PLAYER\obj\Debug\AxInterop.WMPLib.dll
+E:\2016-2017, Fall 8\OBJECT ORIENTED PROGRAMMING 2 [E]\Project\MP3 PLAYER(Project)\MP3 PLAYER\obj\Debug\MP3 PLAYER.csproj.ResolveComReference.cache
+E:\2016-2017, Fall 8\OBJECT ORIENTED PROGRAMMING 2 [E]\Project\MP3 PLAYER(Project)\MP3 PLAYER\obj\Debug\MP3_PLAYER.MusicPlayer.resources
+E:\2016-2017, Fall 8\OBJECT ORIENTED PROGRAMMING 2 [E]\Project\MP3 PLAYER(Project)\MP3 PLAYER\obj\Debug\MP3_PLAYER.Properties.Resources.resources
+E:\2016-2017, Fall 8\OBJECT ORIENTED PROGRAMMING 2 [E]\Project\MP3 PLAYER(Project)\MP3 PLAYER\obj\Debug\MP3_PLAYER.StartUP.resources
+E:\2016-2017, Fall 8\OBJECT ORIENTED PROGRAMMING 2 [E]\Project\MP3 PLAYER(Project)\MP3 PLAYER\obj\Debug\MP3 PLAYER.csproj.GenerateResource.Cache
+E:\2016-2017, Fall 8\OBJECT ORIENTED PROGRAMMING 2 [E]\Project\MP3 PLAYER(Project)\MP3 PLAYER\obj\Debug\MP3 PLAYER.exe
+E:\2016-2017, Fall 8\OBJECT ORIENTED PROGRAMMING 2 [E]\Project\MP3 PLAYER(Project)\MP3 PLAYER\obj\Debug\MP3 PLAYER.pdb
+E:\Sudy\2016-2017, Fall 8\OBJECT ORIENTED PROGRAMMING 2 [E]\Project\MP3 PLAYER(Project)\MP3 PLAYER\bin\Debug\MP3 PLAYER.exe.config
+E:\Sudy\2016-2017, Fall 8\OBJECT ORIENTED PROGRAMMING 2 [E]\Project\MP3 PLAYER(Project)\MP3 PLAYER\bin\Debug\MP3 PLAYER.exe
+E:\Sudy\2016-2017, Fall 8\OBJECT ORIENTED PROGRAMMING 2 [E]\Project\MP3 PLAYER(Project)\MP3 PLAYER\bin\Debug\MP3 PLAYER.pdb
+E:\Sudy\2016-2017, Fall 8\OBJECT ORIENTED PROGRAMMING 2 [E]\Project\MP3 PLAYER(Project)\MP3 PLAYER\bin\Debug\Interop.WMPLib.dll
+E:\Sudy\2016-2017, Fall 8\OBJECT ORIENTED PROGRAMMING 2 [E]\Project\MP3 PLAYER(Project)\MP3 PLAYER\bin\Debug\AxInterop.WMPLib.dll
+E:\Sudy\2016-2017, Fall 8\OBJECT ORIENTED PROGRAMMING 2 [E]\Project\MP3 PLAYER(Project)\MP3 PLAYER\obj\Debug\MP3 PLAYER.csprojResolveAssemblyReference.cache
+E:\Sudy\2016-2017, Fall 8\OBJECT ORIENTED PROGRAMMING 2 [E]\Project\MP3 PLAYER(Project)\MP3 PLAYER\obj\Debug\Interop.WMPLib.dll
+E:\Sudy\2016-2017, Fall 8\OBJECT ORIENTED PROGRAMMING 2 [E]\Project\MP3 PLAYER(Project)\MP3 PLAYER\obj\Debug\AxInterop.WMPLib.dll
+E:\Sudy\2016-2017, Fall 8\OBJECT ORIENTED PROGRAMMING 2 [E]\Project\MP3 PLAYER(Project)\MP3 PLAYER\obj\Debug\MP3 PLAYER.csproj.ResolveComReference.cache
+E:\Sudy\2016-2017, Fall 8\OBJECT ORIENTED PROGRAMMING 2 [E]\Project\MP3 PLAYER(Project)\MP3 PLAYER\obj\Debug\MP3_PLAYER.MusicPlayer.resources
+E:\Sudy\2016-2017, Fall 8\OBJECT ORIENTED PROGRAMMING 2 [E]\Project\MP3 PLAYER(Project)\MP3 PLAYER\obj\Debug\MP3_PLAYER.Properties.Resources.resources
+E:\Sudy\2016-2017, Fall 8\OBJECT ORIENTED PROGRAMMING 2 [E]\Project\MP3 PLAYER(Project)\MP3 PLAYER\obj\Debug\MP3_PLAYER.StartUP.resources
+E:\Sudy\2016-2017, Fall 8\OBJECT ORIENTED PROGRAMMING 2 [E]\Project\MP3 PLAYER(Project)\MP3 PLAYER\obj\Debug\MP3 PLAYER.csproj.GenerateResource.Cache
+E:\Sudy\2016-2017, Fall 8\OBJECT ORIENTED PROGRAMMING 2 [E]\Project\MP3 PLAYER(Project)\MP3 PLAYER\obj\Debug\MP3 PLAYER.exe
+E:\Sudy\2016-2017, Fall 8\OBJECT ORIENTED PROGRAMMING 2 [E]\Project\MP3 PLAYER(Project)\MP3 PLAYER\obj\Debug\MP3 PLAYER.pdb

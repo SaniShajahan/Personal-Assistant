@@ -1,0 +1,42 @@
+E:\2016-2017, Fall 8\OBJECT ORIENTED PROGRAMMING 2 [E]\Project\PersonalAssistant\MP3 PLAYER\bin\Debug\PersonalAssistant.exe.config
+E:\2016-2017, Fall 8\OBJECT ORIENTED PROGRAMMING 2 [E]\Project\PersonalAssistant\MP3 PLAYER\obj\Debug\Interop.WMPLib.dll
+E:\2016-2017, Fall 8\OBJECT ORIENTED PROGRAMMING 2 [E]\Project\PersonalAssistant\MP3 PLAYER\obj\Debug\AxInterop.WMPLib.dll
+E:\2016-2017, Fall 8\OBJECT ORIENTED PROGRAMMING 2 [E]\Project\PersonalAssistant\MP3 PLAYER\obj\Debug\PersonalAssistant.csproj.ResolveComReference.cache
+E:\2016-2017, Fall 8\OBJECT ORIENTED PROGRAMMING 2 [E]\Project\PersonalAssistant\PersonalAssistant\bin\Debug\PersonalAssistant.exe.config
+E:\2016-2017, Fall 8\OBJECT ORIENTED PROGRAMMING 2 [E]\Project\PersonalAssistant\PersonalAssistant\obj\Debug\Interop.WMPLib.dll
+E:\2016-2017, Fall 8\OBJECT ORIENTED PROGRAMMING 2 [E]\Project\PersonalAssistant\PersonalAssistant\obj\Debug\AxInterop.WMPLib.dll
+E:\2016-2017, Fall 8\OBJECT ORIENTED PROGRAMMING 2 [E]\Project\PersonalAssistant\PersonalAssistant\obj\Debug\PersonalAssistant.csproj.ResolveComReference.cache
+E:\2016-2017, Fall 8\OBJECT ORIENTED PROGRAMMING 2 [E]\Project\PersonalAssistant\PersonalAssistant\bin\Debug\PersonalAssistant.exe
+E:\2016-2017, Fall 8\OBJECT ORIENTED PROGRAMMING 2 [E]\Project\PersonalAssistant\PersonalAssistant\bin\Debug\PersonalAssistant.pdb
+E:\2016-2017, Fall 8\OBJECT ORIENTED PROGRAMMING 2 [E]\Project\PersonalAssistant\PersonalAssistant\bin\Debug\Interop.WMPLib.dll
+E:\2016-2017, Fall 8\OBJECT ORIENTED PROGRAMMING 2 [E]\Project\PersonalAssistant\PersonalAssistant\bin\Debug\AxInterop.WMPLib.dll
+E:\2016-2017, Fall 8\OBJECT ORIENTED PROGRAMMING 2 [E]\Project\PersonalAssistant\PersonalAssistant\obj\Debug\PersonalAssistant.csprojResolveAssemblyReference.cache
+E:\2016-2017, Fall 8\OBJECT ORIENTED PROGRAMMING 2 [E]\Project\PersonalAssistant\PersonalAssistant\obj\Debug\PersonalAssistant.Startup.resources
+E:\2016-2017, Fall 8\OBJECT ORIENTED PROGRAMMING 2 [E]\Project\PersonalAssistant\PersonalAssistant\obj\Debug\PersonalAssistant.Calculator.resources
+E:\2016-2017, Fall 8\OBJECT ORIENTED PROGRAMMING 2 [E]\Project\PersonalAssistant\PersonalAssistant\obj\Debug\PersonalAssistant.Properties.Resources.resources
+E:\2016-2017, Fall 8\OBJECT ORIENTED PROGRAMMING 2 [E]\Project\PersonalAssistant\PersonalAssistant\obj\Debug\PersonalAssistant.csproj.GenerateResource.Cache
+E:\2016-2017, Fall 8\OBJECT ORIENTED PROGRAMMING 2 [E]\Project\PersonalAssistant\PersonalAssistant\obj\Debug\PersonalAssistant.exe
+E:\2016-2017, Fall 8\OBJECT ORIENTED PROGRAMMING 2 [E]\Project\PersonalAssistant\PersonalAssistant\obj\Debug\PersonalAssistant.pdb
+E:\2016-2017, Fall 8\OBJECT ORIENTED PROGRAMMING 2 [E]\Project\PersonalAssistant\PersonalAssistant\bin\Debug\MP3 PLAYER.exe
+E:\2016-2017, Fall 8\OBJECT ORIENTED PROGRAMMING 2 [E]\Project\PersonalAssistant\PersonalAssistant\bin\Debug\MP3 PLAYER.pdb
+E:\2016-2017, Fall 8\OBJECT ORIENTED PROGRAMMING 2 [E]\Project\PersonalAssistant\PersonalAssistant\bin\Debug\Browser.exe
+E:\2016-2017, Fall 8\OBJECT ORIENTED PROGRAMMING 2 [E]\Project\PersonalAssistant\PersonalAssistant\bin\Debug\Browser.pdb
+E:\Sudy\2016-2017, Fall 8\OBJECT ORIENTED PROGRAMMING 2 [E]\Project\PersonalAssistant\PersonalAssistant\bin\Debug\PersonalAssistant.exe.config
+E:\Sudy\2016-2017, Fall 8\OBJECT ORIENTED PROGRAMMING 2 [E]\Project\PersonalAssistant\PersonalAssistant\obj\Debug\Interop.WMPLib.dll
+E:\Sudy\2016-2017, Fall 8\OBJECT ORIENTED PROGRAMMING 2 [E]\Project\PersonalAssistant\PersonalAssistant\obj\Debug\AxInterop.WMPLib.dll
+E:\Sudy\2016-2017, Fall 8\OBJECT ORIENTED PROGRAMMING 2 [E]\Project\PersonalAssistant\PersonalAssistant\obj\Debug\PersonalAssistant.csproj.ResolveComReference.cache
+E:\Sudy\2016-2017, Fall 8\OBJECT ORIENTED PROGRAMMING 2 [E]\Project\PersonalAssistant\PersonalAssistant\obj\Debug\PersonalAssistant.exe
+E:\Sudy\2016-2017, Fall 8\OBJECT ORIENTED PROGRAMMING 2 [E]\Project\PersonalAssistant\PersonalAssistant\obj\Debug\PersonalAssistant.pdb
+E:\Sudy\2016-2017, Fall 8\OBJECT ORIENTED PROGRAMMING 2 [E]\Project\PersonalAssistant\PersonalAssistant\bin\Debug\PersonalAssistant.exe
+E:\Sudy\2016-2017, Fall 8\OBJECT ORIENTED PROGRAMMING 2 [E]\Project\PersonalAssistant\PersonalAssistant\bin\Debug\PersonalAssistant.pdb
+E:\Sudy\2016-2017, Fall 8\OBJECT ORIENTED PROGRAMMING 2 [E]\Project\PersonalAssistant\PersonalAssistant\bin\Debug\Browser.exe
+E:\Sudy\2016-2017, Fall 8\OBJECT ORIENTED PROGRAMMING 2 [E]\Project\PersonalAssistant\PersonalAssistant\bin\Debug\MP3 PLAYER.exe
+E:\Sudy\2016-2017, Fall 8\OBJECT ORIENTED PROGRAMMING 2 [E]\Project\PersonalAssistant\PersonalAssistant\bin\Debug\AxInterop.WMPLib.dll
+E:\Sudy\2016-2017, Fall 8\OBJECT ORIENTED PROGRAMMING 2 [E]\Project\PersonalAssistant\PersonalAssistant\bin\Debug\Interop.WMPLib.dll
+E:\Sudy\2016-2017, Fall 8\OBJECT ORIENTED PROGRAMMING 2 [E]\Project\PersonalAssistant\PersonalAssistant\bin\Debug\Browser.pdb
+E:\Sudy\2016-2017, Fall 8\OBJECT ORIENTED PROGRAMMING 2 [E]\Project\PersonalAssistant\PersonalAssistant\bin\Debug\MP3 PLAYER.pdb
+E:\Sudy\2016-2017, Fall 8\OBJECT ORIENTED PROGRAMMING 2 [E]\Project\PersonalAssistant\PersonalAssistant\obj\Debug\PersonalAssistant.csprojResolveAssemblyReference.cache
+E:\Sudy\2016-2017, Fall 8\OBJECT ORIENTED PROGRAMMING 2 [E]\Project\PersonalAssistant\PersonalAssistant\obj\Debug\PersonalAssistant.Startup.resources
+E:\Sudy\2016-2017, Fall 8\OBJECT ORIENTED PROGRAMMING 2 [E]\Project\PersonalAssistant\PersonalAssistant\obj\Debug\PersonalAssistant.Calculator.resources
+E:\Sudy\2016-2017, Fall 8\OBJECT ORIENTED PROGRAMMING 2 [E]\Project\PersonalAssistant\PersonalAssistant\obj\Debug\PersonalAssistant.Properties.Resources.resources
+E:\Sudy\2016-2017, Fall 8\OBJECT ORIENTED PROGRAMMING 2 [E]\Project\PersonalAssistant\PersonalAssistant\obj\Debug\PersonalAssistant.csproj.GenerateResource.Cache
